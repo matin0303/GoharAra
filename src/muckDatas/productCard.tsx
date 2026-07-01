@@ -214,7 +214,7 @@ export const Muckdata:ProductsWithRealPrices[] = [
 {
     "id": 24,
     "title": "دستبند آیینه ای لوکس بیضی",
-	"weight": 8.150,
+	"weight": 8.10,
     "price": 22500000,
     "images": '["/prd/prd44.jpeg"]',
     "realPrice":0,
@@ -313,7 +313,7 @@ export const Muckdata:ProductsWithRealPrices[] = [
 {
     "id":35,
     "title": "نیمست طلا کد 6000",
-	"weight":7.120 ,
+	"weight":7.10 ,
     "price": 22500000,
     "images": '["/prd/prd55.png"]',
     "realPrice":0,
@@ -322,7 +322,7 @@ export const Muckdata:ProductsWithRealPrices[] = [
 {
     "id": 36,
     "title": "نیمست طلا گل مرواریدی کد 210",
-	"weight": 10.720,
+	"weight": 10.0,
     "price": 22500000,
     "images": '["/prd/prd56.jpeg"]',
     "realPrice":0,
@@ -335,7 +335,7 @@ export const Muckdata:ProductsWithRealPrices[] = [
 {
     "id": 37,
     "title": "نیمست طلا لیزری برگ",
-	"weight": 8.350 ,
+	"weight": 8.30 ,
     "price": 22500000,
     "images": '["/prd/prd57.webp"]',
     "realPrice":0,
@@ -344,7 +344,7 @@ export const Muckdata:ProductsWithRealPrices[] = [
 {
     "id": 38,
     "title": "نیمست طلا لیزری بال",
-	"weight": 9.470 ,
+	"weight": 9.40 ,
     "price": 22500000,
     "images": '["/prd/prd58.jpeg"]',
     "realPrice":0,
@@ -353,7 +353,7 @@ export const Muckdata:ProductsWithRealPrices[] = [
 {
     "id": 39,
     "title": "نیمست طلا لیزری برگ کد1001",
-	"weight":3.520 ,
+	"weight":3.50 ,
     "price": 22500000,
     "images": '["/prd/prd59.jpeg"]',
     "realPrice":0,
@@ -362,7 +362,7 @@ export const Muckdata:ProductsWithRealPrices[] = [
 {
     "id": 40,
     "title": "نیمست طلا گل مرواریدی کد 210",
-	"weight":4.0 ,
+	"weight":8.0 ,
     "price": 22500000,
     "images": '["/prd/prd60.jpeg"]',
     "realPrice":0,
