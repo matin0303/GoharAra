@@ -43,7 +43,7 @@ export const useProductsWithRealPrices = () => {
       
       // محاسبات دقیق
       const laborCost = pricePerGram * 0.1; // ۲۰% اجرت
-      const profit = pricePerGram * 0.07; // ۷% سود
+      const profit = pricePerGram * 0.00; // ۷% سود
       const totalPerGram = pricePerGram + laborCost + profit; // جمع هر گرم
       const totalRial = product.weight * totalPerGram; // کل به ریال
       
