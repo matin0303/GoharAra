@@ -46,7 +46,7 @@ type ArticleFormProps = {
 
 export default function ArticleForm({ initialData, isEditing = false, setOpenEditModal }: ArticleFormProps) {
 	const router = useRouter();
-	const [step, setStep] = useState(1);
+	const [step, setStep] = useState(2);
 
 	const parseHashtags = (hashtags: string[] | undefined) => {
 		if (Array.isArray(hashtags)) {
