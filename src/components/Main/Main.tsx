@@ -370,6 +370,15 @@ const randomSixItems = getRandomItems(dataWithPrice.products, 6);
           </div>
         </section>
         <section className='w-1/2 h-screen max-h-200 max-sm:h-1/2 max-sm:mt-10 max-sm:w-full flex flex-col justify-center items-center '>
+        
+           {/* Dots Grid Pattern */}
+           <div className='absolute inset-0 opacity-[0.3]'>
+            <div className='w-full h-full' style={{
+              backgroundImage: 'radial-gradient(circle, #d076f4 1px, transparent 1px)',
+              backgroundSize: '30px 30px'
+            }} />
+          </div>
+        
           <div className='pb-1'>
             <h4 className='font-[paeez] text-5xl text-center text-textColor'>!! ست های پیشنهادی </h4>
           </div>

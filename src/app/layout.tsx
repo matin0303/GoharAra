@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "گوهرآرا",
-  description: "پخش پسته از دامغان به سراسر کشور",
+  description: "",
 };
 
 export default function RootLayout({
